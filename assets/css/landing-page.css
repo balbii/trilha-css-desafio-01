@@ -118,6 +118,7 @@ main h2{
     margin-left: 200px;
     text-align: left;
     text-shadow: 2px 2px #33A8DB;
+    text-transform: lowercase;
 }
 
 #professional-challenges{
